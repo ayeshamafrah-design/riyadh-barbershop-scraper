@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+pandas
+openpyxl
+beautifulsoup4
+undetected-chromedriver
+tqdm
+
